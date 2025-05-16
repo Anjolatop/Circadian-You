@@ -1,8 +1,8 @@
-💤 Circadia: Smart Sleep Companion
+💤 Circadian You: Smart Sleep Companion
 Track your sleep. Understand your rhythm. Wake up smarter.
 
 🌟 Overview
-Circadia is a mobile app designed for students, shift workers, and anyone with an irregular sleep schedule. By learning your unique sleep/wake patterns, Circadia suggests personalized bedtimes and sets smart alarms that align with your circadian rhythm and natural 90-minute sleep cycles — helping you feel more refreshed and in control of your sleep health.
+Circadian You is a mobile app designed for students, shift workers, and anyone with an irregular sleep schedule. By learning your unique sleep/wake patterns, Circadia suggests personalized bedtimes and sets smart alarms that align with your circadian rhythm and natural 90-minute sleep cycles — helping you feel more refreshed and in control of your sleep health.
 
 📱 Features
 ⏰ Smart Alarm: Wake up during light sleep within your preferred time window.
@@ -18,11 +18,11 @@ Circadia is a mobile app designed for students, shift workers, and anyone with a
 🧠 How It Works
 You log your sleep and wake-up times.
 
-Circadia trains a lightweight ML model (on your device!) to track your internal clock and preferred patterns.
+Circadian You trains a lightweight ML model (on your device!) to track your internal clock and preferred patterns.
 
 You set a wake-up window (e.g. “before 8:30 AM”).
 
-Circadia picks an optimal alarm time based on:
+Circadian You picks an optimal alarm time based on:
 
 Your predicted circadian rhythm
 
